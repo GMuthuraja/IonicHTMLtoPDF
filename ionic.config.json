@@ -1,5 +1,7 @@
 {
   "name": "IonicHTMLtoPDF",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
